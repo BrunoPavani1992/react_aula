@@ -1,8 +1,8 @@
-import { RepositoryList } from './components/RepositoryList';
+import { BoardList } from './components/BoardList';
 import './styles/global.scss';
 
 export function App() {
     return (
-        <RepositoryList />
+        <BoardList />
     )
 }
